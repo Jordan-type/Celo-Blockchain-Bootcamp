@@ -17,24 +17,31 @@ Complete Celo Developer Roadmap is a curated Celo Developer handbook which inclu
 
 |       Topic      | Instant Link                                                                                                              |
 |:----------------:|---------------------------------------------------------------------------------------------------------------------------|
-| Basics           | [Explore]                                                                                                                 |
-| Stable Coins     | [Explore]                                                                                                                 |
-| DApps            | [Explore]                                                                                                                 |
-| DeFi             | [Explore]                                                                                                                 |
-| Security         | [Explore]                                                                                                                 |
-| Frameworks       | [Explore]                                                                                                                 |
-| FrontEnd         | [Explore]                                                                                                                 |
-| General Info     | [Explore]                                                                                                                 |
-| Further Readings | [Explore]                                                                                                                 |
-| Tools Collection | [Explore]                                                                                                                 |
-| Projects List    | [Explore]                                                                                                                 |
-| FAQs             | [Explore]                                                                                                                 |
+| Basics           | [Explore] ()                                                                                                              |
+| Stable Coins     | [Explore] ()                                                                                                              |
+| DApps            | [Explore] ()                                                                                                              |
+| DeFi             | [Explore] ()                                                                                                              |
+| Security         | [Explore] ()                                                                                                              |
+| Frameworks       | [Explore] ()                                                                                                              |
+| FrontEnd         | [Explore] ()                                                                                                              |
+| General Info     | [Explore] ()                                                                                                              |
+| Further Readings | [Explore] ()                                                                                                              |
+| Tools Collection | [Explore] ()                                                                                                              |
+| Projects List    | [Explore] ()                                                                                                              |
+| FAQs             | [Explore] ()                                                                                                              |
 
 ## Basics:
 
 Learn the basics of Distributed Ledger Technology (DLT)
 
-👇 **_Please read the following Frequently Asked Questions (FAQ) carefully before starting the course_** 👇
+#### Smart Contract
+
+- Basics of Smart Contract
+- Life Cycle of Smart Contract
+- Higher Level languages (**Solidity**)
+- Compiling, testing, Deploying smart Contracts
+- Interacting with smart contracts using web3.js or web3.py
+
 
 
 
