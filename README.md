@@ -1,13 +1,15 @@
 # Fintech and Celo Blockchain Bootcamp
 
-This repo contains stater files and the finoshed project files for all the projects contained in the course.
-Use starter code to start each section, and **final code to compare it with your own code whenever something doesn't work**!
+This repo contains stater files and the finished project files for all the projects contained in this course.
+Use the starter code to start each section, and **final code to compare it with your own code whenever something doesn't work**!
 
 Plus, I made all the [course slides available for download](), to make it easier to follow a long the theroy videos.
 
-Complete Celo Developer Roadmap Guide
+👇 Please make sure to read the Frequently Asked Questions (FAQs) section carefully before starting the course 👇
 
-Introduction
+## Complete Celo Developer Roadmap Guide
+
+# Introduction
 
 Complete Celo Developer Roadmap is a curated Celo Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks on Celo blockchain.
 
