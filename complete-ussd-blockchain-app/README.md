@@ -2,7 +2,7 @@
 
 ## Introduction
 
-## What is USSD Africa’s Taking?
+## What is USSD?
 
 USSD – unstructured supplementary service data. It sounds complicated and a bit technical, especially if we spice it up with blockchain. But for this tutorial, we will focus on two key points.
 
@@ -32,17 +32,30 @@ ContractKit supports the following functionality:
 - Utilities
 - Query on-chain identifier for a phone number
 
+## Getting Started
+
 Requirements for Building USSD App Using Celo ContracKit
 
-1. Node.js
-2. Yarn or Npm package manager
-3. Ngrok
-4. MongoDB
+1. [Node.js v12.x.x]()
+2. [Yarn]() or [Npm]() package manager
+3. Ngrok `npm install ngrok -g`
+4. [MongoDB]()
+
+if you already have the above tools installed we can get started to creating our ussd application
+
+## Method 1 - starting from scratch
+
+step 1 intialize Node.js application
+`yarn init` or `npm init`
 
 ContractKit Installation requirements **Note: you will need node.js v12.x.**
 
 [Contract Kit](https://docs.celo.org/developer-guide/contractkit/setup)
 
 To install, run the following command depending on your package manager
-`npm install @celo/contractkit`  or `yarn add @celo/contractkit`
-`npm install ngrok -g`
+`npm install @celo/contractkit` or `yarn add @celo/contractkit`
+
+[](https://africastalking.com/)
+[](https://simulator.africastalking.com:1517/)
+
+## Method 2 - `git clone` using starter code
