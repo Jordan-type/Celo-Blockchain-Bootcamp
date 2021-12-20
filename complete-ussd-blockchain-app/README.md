@@ -32,6 +32,8 @@ ContractKit supports the following functionality:
 - Utilities
 - Query on-chain identifier for a phone number
 
+## Getting Started
+
 Requirements for Building USSD App Using Celo ContracKit
 
 1. [Node.js v12.x.x]()
