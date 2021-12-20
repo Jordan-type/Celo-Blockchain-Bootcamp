@@ -1,4 +1,4 @@
-# Fintech and Celo Blockchain Bootcamp
+# Celo Blockchain Bootcamp
 
 This repo contains stater files and the finished project files for all the projects contained in this course.
 Use the starter code to start each section, and **final code to compare it with your own code whenever something doesn't work**!
@@ -9,49 +9,53 @@ Plus, I made all the [course slides available for download](), to make it easier
 
 ## Complete Celo Developer Roadmap Guide
 
-# Introduction
+## Introduction
 
 Complete Celo Developer Roadmap is a curated Celo Developer handbook which includes a list of the best tools for DApps, development resources and lifehacks on Celo blockchain.
 
 ## RoadMap
 
-# Navigation
+## Navigation
 
-|       Topic      | Instant Link                                                                                                              |
-|:----------------:|---------------------------------------------------------------------------------------------------------------------------|
-| Basics           | [Explore] ()                                                                                                              |
-| Stable Coins     | [Explore] ()                                                                                                              |
-| DApps            | [Explore] ()                                                                                                              |
-| DeFi             | [Explore] ()                                                                                                              |
-| Security         | [Explore] ()                                                                                                              |
-| Frameworks       | [Explore] ()                                                                                                              |
-| FrontEnd         | [Explore] ()                                                                                                              |
-| General Info     | [Explore] ()                                                                                                              |
-| Further Readings | [Explore] ()                                                                                                              |
-| Tools Collection | [Explore] ()                                                                                                              |
-| Projects List    | [Explore] ()                                                                                                              |
-| FAQs             | [Explore] ()                                                                                                              |
+|       Topics                         | Instant Link                                                                                                              |
+|:------------------------------------:|---------------------------------------------------------------------------------------------------------------------------|
+| Developer Courses Available          | [Explore] ()                                                                                                              |
+| Resources For This Courses           | [Explore] ()                                                                                                              |
+| Intro to Basics                      | [Explore] ()                                                                                                              |
+| Stable Coins                         | [Explore] ()                                                                                                              |
+| DApps                                | [Explore] ()                                                                                                              |
+| DeFi                                 | [Explore] ()                                                                                                              |
+| Security                             | [Explore] ()                                                                                                              |
+| Frameworks                           | [Explore] ()                                                                                                              |
+| FrontEnd                             | [Explore] ()                                                                                                              |
+| General Info                         | [Explore] ()                                                                                                              |
+| Further Readings                     | [Explore] ()                                                                                                              |
+| Tools Collection                     | [Explore] ()                                                                                                              |
+| Projects List                        | [Explore] ()                                                                                                              |
+| FAQs                                 | [Explore] ()                                                                                                              |
 
-## Basics:
+## Developer Courses Available
+
+## Resources For This Courses
+
+## Intro to Basics
 
 Learn the basics of Distributed Ledger Technology (DLT)
 
-#### Smart Contract
+### Smart Contract
 
 - Basics of Smart Contract
 - Life Cycle of Smart Contract
-- Higher Level languages (**Solidity**)
+- Programming languages Used (**Solidity**, )
 - Compiling, testing, Deploying smart Contracts
 - Interacting with smart contracts using web3.js or web3.py
-
-
-
 
 ## Projects List
 
 1. Smart Contract Basics
 2. Defi Project
-3. Ussd project
+3. Ussd Project
+4. NFT Project
 
 ## Frequently Asked Questions (FAQs)
 
