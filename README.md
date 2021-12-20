@@ -3,7 +3,7 @@
 This repo contains stater files and the finished project files for all the projects contained in this course.
 Use the starter code to start each section, and **final code to compare it with your own code whenever something doesn't work**!
 
-Plus, I made all the [course slides available for download](), to make it easier to follow a long the theroy videos.
+Plus, I made all the [course slides available for download](https://drive.google.com/drive/u/0/folders/1LlZZTZWHAOsLw43ZZYjKIVT0dOgkj102), to make it easier to follow a long the theroy videos.
 
 👇 Please make sure to read the Frequently Asked Questions (FAQs) section carefully before starting the course 👇
 
@@ -72,3 +72,5 @@ Absolutely! Just make sure you actually built it yourself by following the cours
 ### Q4: Do you accept pull requests?
 
 No, for the simple reason that I want this repository to contain the _exact_ same code that is shown in the videos. However, please feel free to add an issue if you found one.
+
+( ͡❛ ͜ʖ ͡❛)
