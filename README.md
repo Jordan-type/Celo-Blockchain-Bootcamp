@@ -36,7 +36,13 @@ Complete Celo Developer Roadmap is a curated Celo Developer handbook which inclu
 
 ## Developer Courses Available
 
+[Dacade - Celo Development 101](https://dacade.org/communities/celo/courses/celo-development-101)
+[Dacade - Celo Development 201](https://dacade.org/communities/celo/courses/celo-201)
+[Figment.io]()
+
 ## Resources For This Courses
+
+[Celo Docs]()
 
 ## Intro to Basics
 
@@ -48,7 +54,7 @@ Learn the basics of Distributed Ledger Technology (DLT)
 - Life Cycle of Smart Contract
 - Programming languages Used (**Solidity**, )
 - Compiling, testing, Deploying smart Contracts
-- Interacting with smart contracts using web3.js or web3.py
+- Interacting with smart contracts using web3.js, ether.js or web3.py
 
 ## Projects List
 
@@ -56,6 +62,32 @@ Learn the basics of Distributed Ledger Technology (DLT)
 2. Defi Project
 3. Ussd Project
 4. NFT Project
+5. ReFi Project
+
+## Technology
+
+- Metamask
+- Remix Editor
+- Truffle
+- ReactJs
+- Solidity
+- Web3js
+- Celo contracKit
+- Celo Faucet
+- Yarn
+
+## Useful Links
+
+- ⚽ [Metamask](https://metamask.io/)
+- 🚀 [Remix Editor](https://remix.ethereum.org/)
+- 💡 [Truffle](https://trufflesuite.com/)
+- 🔥 [ReactJs](https://reactjs.org/)
+- 🐻 [Solidity](https://soliditylang.org/)
+- 👀 [Web3Js](https://docs.ethers.io/v5/)
+- 💡  [Celo contracKit]()
+- 🎅 [Celo Faucet]()
+- 🤖 [Ganache](https://trufflesuite.com/ganache/index.html)
+
 
 ## Frequently Asked Questions (FAQs)
 

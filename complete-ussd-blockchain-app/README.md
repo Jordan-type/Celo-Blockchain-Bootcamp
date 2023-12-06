@@ -37,7 +37,7 @@ ContractKit supports the following functionality:
 Requirements for Building USSD App Using Celo ContracKit
 
 1. [Node.js v12.x.x]()
-2. [Yarn]() or [Npm]() package manager
+2. [Yarn](`yarn add africastalking cookie-parser cors dotenv express mongoose web3`) or [Npm](`npm install africastalking cookie-parser cors dotenv express mongoose web3` ) package manager
 3. Ngrok `npm install ngrok -g`
 4. [MongoDB]()
 
@@ -55,7 +55,7 @@ ContractKit Installation requirements **Note: you will need node.js v12.x.**
 To install, run the following command depending on your package manager
 `npm install @celo/contractkit` or `yarn add @celo/contractkit`
 
-[](https://africastalking.com/)
-[](https://simulator.africastalking.com:1517/)
+[Africa's Talking](https://africastalking.com/)
+[Simulator Africa's Talking](https://simulator.africastalking.com:1517/)
 
 ## Method 2 - `git clone` using starter code
