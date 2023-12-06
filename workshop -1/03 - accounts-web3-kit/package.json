@@ -1,0 +1,13 @@
+{
+  "name": "contractkit-examples",
+  "version": "1.0.0",
+  "description": "How to use contractKit sdk with continuum block",
+  "main": "index.js",
+  "author": "Jordan type",
+  "license": "MIT",
+  "dependencies": {
+    "@celo/contractkit": "^4.1.0",
+    "dotenv": "^16.0.3",
+    "web3": "^1.9.0"
+  }
+}
